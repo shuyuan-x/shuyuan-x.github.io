@@ -27,7 +27,7 @@ Education and Experience
 
 Tutorial
 ======
-- Tutorial on Advances in Simulation Technology for Web Applications, WebConf 2023, Austin, USA [website](https://foundation4recsys.github.io/Tutorial-WWW23/)
+- Tutorial on Advances in Simulation Technology for Web Applications, WebConf 2023, Austin, USA [[website](https://foundation4recsys.github.io/Tutorial-WWW23/)]
 
 
 Academic Services
