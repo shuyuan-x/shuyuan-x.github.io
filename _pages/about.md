@@ -1,6 +1,15 @@
-
+---
+permalink: /
+title: "Shuyuan Xu"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+<!-- 
 About me
-======
+====== -->
 I’m **Shuyuan Xu**, a PhD candidate in [the Department of Computer Science at Rutgers University](https://www.cs.rutgers.edu/), under the supervision of [Prof. Yongfeng Zhang](http://www.yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from Ocean University of China in 2017.
 
 My research interests lie in the intersection of Machine Learning and Information Retrieval. My recent research focuses on Recommender Systems, : Recommender System, Economic Recommendation, Explainable Recommendation, and Causal Recommendation. 
