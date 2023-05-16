@@ -1,10 +1,12 @@
 ---
-permalink: /
 title: "Publications"
-excerpt: "publications"
-author_profile: true
-redirect_from: 
-  - /publications/
+collection: publications
+permalink: /publication/conference
+excerpt: 'Conference Publications'
+date: 
+venue: 
+paperurl: 
+citation: 
 ---
 
 
