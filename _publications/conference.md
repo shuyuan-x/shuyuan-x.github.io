@@ -1,8 +1,7 @@
 ---
-title: "Publications"
 permalink: /
-title: "Shuyuan Xu"
-excerpt: "About me"
+title: "Publications"
+<!-- excerpt: "About me" -->
 author_profile: true
 redirect_from: 
   - /publications/
