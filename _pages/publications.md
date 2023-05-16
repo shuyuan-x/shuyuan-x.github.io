@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2023
+---
+__How to Index Item IDs for Recommendation Foundation Models__  
+Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. arXiv preprint arXiv:2305.06569. [[paper](https://arxiv.org/pdf/2305.06569.pdf)]
