@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuyuan Xu's Personal Website"
+title                    : "Shuyuan Xu's Website"
 title_separator          : "-"
 name                     : &name "Shuyuan Xu"
 description              : &description "personal description"
