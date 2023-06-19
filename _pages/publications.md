@@ -11,7 +11,7 @@ __Causal Collaborative Filtering__
 __Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper]()] 
 
 __Deconfounded Causal Collaborative Filtering__  
-__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Jia Li, Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper](https://arxiv.org/abs/2110.07122)]
+__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Jia Li, Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper]()]
 
 __How to Index Item IDs for Recommendation Foundation Models__  
 Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. arXiv:2305.06569. [[paper](https://arxiv.org/abs/2305.06569v2)]
