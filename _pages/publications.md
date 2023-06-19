@@ -7,6 +7,12 @@ author_profile: true
 
 2023
 ---
+__Causal Collaborative Filtering__  
+__Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper]()] 
+
+__Deconfounded Causal Collaborative Filtering__  
+__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Jia Li, Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper](https://arxiv.org/abs/2110.07122)]
+
 __How to Index Item IDs for Recommendation Foundation Models__  
 Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. arXiv:2305.06569. [[paper](https://arxiv.org/abs/2305.06569v2)]
 
@@ -43,12 +49,6 @@ Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, __Shuyuan Xu__, Yu
 ---
 __Efficient Non-Sampling Knowledge Graph Embedding__  
 Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, __Shuyuan Xu__, Chong Chen and Yongfeng Zhang. In Proceedings of the Web Conference 2021 (__WWW 2021__). [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)]
-
-__Causal Collaborative Filtering__  
-__Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. arXiv:2102.01868. [[paper](https://arxiv.org/abs/2102.01868)] 
-
-__Deconfounded Causal Collaborative Filtering__  
-__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Jia Li, Yongfeng Zhang. arXiv:2110.07122. [[paper](https://arxiv.org/abs/2110.07122)]
 
 __Counterfactual Explainable Recommendation__  
 Juntao Tan, __Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Xu Chen and Yongfeng Zhang. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (__CIKM 2021__). [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482420)]
