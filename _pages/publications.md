@@ -19,6 +19,12 @@ Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. arXiv:2305.06569. [[pa
 __OpenAGI: When LLM Meets Domain Experts__  
 Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, __Shuyuan Xu__ and Yongfeng Zhang. arXiv:2304.04370. [[paper](https://arxiv.org/abs/2304.04370)]
 
+__UP5: Unbiased Foundation Model for Fairness-aware Recommendation__
+Wenyue Hua, Yingqiang Ge, __Shuyuan Xu__, Jianchao Ji, Yongfeng Zhang. arXiv:2305.12090. [[paper](https://arxiv.org/abs/2305.12090)]
+
+__OpenP5: Benchmarking Foundation Models for Recommendation__
+__Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. arxiv:2306.11134. [[paper](https://arxiv.org/abs/2306.11134)]
+
 __Counterfactual Collaborative Reasoning__  
 Jianchao Ji, Zelong Li, __Shuyuan Xu__, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang. In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (__WSDM 2023__). [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)]
 
