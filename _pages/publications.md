@@ -8,16 +8,16 @@ author_profile: true
 2023
 ---
 __Causal Collaborative Filtering__  
-__Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper]()] 
+__Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper](https://dl.acm.org/doi/abs/10.1145/3578337.3605122)] 
 
 __Deconfounded Causal Collaborative Filtering__  
-__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Jia Li, Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper]()]
+__Shuyuan Xu__, Juntao Tan, Shelby Heinecke, Vena Jia Li, Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper](https://dl.acm.org/doi/10.1145/3606035)]
 
 __How to Index Item IDs for Recommendation Foundation Models__  
-Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. arXiv:2305.06569. [[paper](https://arxiv.org/abs/2305.06569v2)]
+Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. In Proceedings of 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (__SIGIR-AP 2023__). [[paper](https://arxiv.org/abs/2305.06569v2)]
 
 __OpenAGI: When LLM Meets Domain Experts__  
-Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, __Shuyuan Xu__ and Yongfeng Zhang. arXiv:2304.04370. [[paper](https://arxiv.org/abs/2304.04370)]
+Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, __Shuyuan Xu__ and Yongfeng Zhang. Advances in Neural Information Processing Systems (__NeurIPS 2023__). [[paper](https://arxiv.org/abs/2304.04370)]
 
 __OpenP5: Benchmarking Foundation Models for Recommendation__  
 __Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. arxiv:2306.11134. [[paper](https://arxiv.org/abs/2306.11134)]
@@ -34,6 +34,8 @@ __Shuyuan Xu__, Jianchao Ji, Yunqi Li, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.
 __Counterfactual Collaborative Reasoning__  
 Jianchao Ji, Zelong Li, __Shuyuan Xu__, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang. In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (__WSDM 2023__). [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)]
 
+__Efficient Non-Sampling Graph Neural Networks__   
+Jianchao Ji, Zelong Li, __Shuyuan Xu__, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. __Information 2023__. [[paper](https://www.mdpi.com/2078-2489/14/8/424))]
 
 2022
 ---
