@@ -27,12 +27,14 @@ Education and Experience
 
 Tutorial
 ======
-- Tutorial on Advances in Simulation Technology for Web Applications, WebConf 2023, Austin, USA [[website](https://foundation4recsys.github.io/Tutorial-WWW23/)]
+- Tutorial on Large Language Models for Recommendation, RecSys 2023 [[website](https://llmrecsys.github.io/)]
+- Tutorial on Advances in Simulation Technology for Web Applications, WebConf 2023 [[website](https://foundation4recsys.github.io/Tutorial-WWW23/)]
 
 
 Academic Services
 ======
 - Journal Reviewers:
+  - ACM Transactions on Intelligent Systems and Technology  
   - ACM Transactions on Information Systems
   - ACM Transactions on Recommender Systems
   - IEEE Transactions on Knowledge and Data Engineering
