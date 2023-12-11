@@ -7,6 +7,12 @@ author_profile: true
 
 2023
 ---
+__LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem__  
+Yingqiang Ge, Yujie Ren, Wenyue Hua, __Shuyuan Xu__, Juntao Tan, Yongfeng Zhang. arXiv:2312.03815. [[paper](https://arxiv.org/abs/2312.03815)]
+
+__Natural Language is All a Graph Needs__  
+Ruosong Ye, Caiqi Zhang, Runhui Wang, __Shuyuan Xu__ and Yongfeng Zhang. arXiv:2308.07134. [[paper](https://arxiv.org/abs/2308.07134)]
+
 __Causal Collaborative Filtering__  
 __Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper](https://dl.acm.org/doi/abs/10.1145/3578337.3605122)] 
 
@@ -37,6 +43,9 @@ Jianchao Ji, Zelong Li, __Shuyuan Xu__, Max Xiong, Juntao Tan, Yingqiang Ge, Hao
 __Efficient Non-Sampling Graph Neural Networks__   
 Jianchao Ji, Zelong Li, __Shuyuan Xu__, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. __Information 2023__. [[paper](https://www.mdpi.com/2078-2489/14/8/424))]
 
+__Fairness in Recommendation: Foundations, Methods and Applications__  
+Yunqi Li, Hanxiong Chen, __Shuyuan Xu__, Yingqiang Ge, Juntao Tan, Shuchang Liu and Yongfeng Zhang. In ACM Transactions on Intelligent Systems and Technology (__TIST__). [[paper](https://dl.acm.org/doi/abs/10.1145/3610302))]
+
 2022
 ---
 __Fairness-aware Federated Matrix Factorization__  
@@ -50,9 +59,6 @@ Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, __Shuyuan Xu__, Yunqi Li and Y
 
 __Causal Structure Learning with Recommendation System__  
 __Shuyuan Xu__, Da Xu, Evren Korpeoglu, Sushant Kumar, Stephen Guo, Kannan Achan, Yongfeng Zhang. arXiv:2210.10256. [[paper](https://arxiv.org/abs/2210.10256)] 
-
-__Fairness in Recommendation: A Survey__  
-Yunqi Li, Hanxiong Chen, __Shuyuan Xu__, Yingqiang Ge, Juntao Tan, Shuchang Liu and Yongfeng Zhang. arXiv:2205.13619. [[paper](https://arxiv.org/abs/2205.13619)] 
 
 __A Survey on Trustworthy Recommender Systems__  
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, __Shuyuan Xu__, Yunqi Li, Yikun Xian and Yongfeng Zhang. arXiv:2207.12515. [[paper](https://arxiv.org/abs/2207.12515)] 
