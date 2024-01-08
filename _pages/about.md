@@ -20,7 +20,7 @@ Education and Experience
 ======
 - PhD in Computer Science, Rutgers University, USA, 2019 - Now
 - Research Intern, Walmart Labs, USA, May 2022 - Sep 2022
-- Research Intern, Walmart Labs, USA, May 2021 - Oct 2021
+- Research Intern, Walmart Labs, USA, Jun 2021 - Oct 2021
 - M.S. in Computer Science, Rutgers University, USA, 2017 - 2019
 - B.S. in Mathematics and Applied Mathematics, Ocean University of China, China, 2013 - 2017
 
