@@ -5,13 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+---
+
+__Natural Language is All a Graph Needs__  
+Ruosong Ye, Caiqi Zhang, Runhui Wang, __Shuyuan Xu__ and Yongfeng Zhang. In the 18th Conference of the European Chapter of the Association for Computational Linguistics (__EACL 2024__). [[paper](https://arxiv.org/abs/2308.07134)]
+
+__UP5: Unbiased Foundation Model for Fairness-aware Recommendation__  
+Wenyue Hua, Yingqiang Ge, __Shuyuan Xu__, Jianchao Ji, Yongfeng Zhang. In the 18th Conference of the European Chapter of the Association for Computational Linguistics (__EACL 2024__). [[paper](https://arxiv.org/abs/2305.12090)]
+
+__GenRec: Large Language Model for Generative Recommendation__  
+Jianchao Ji, Zelong Li, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. In Proceedings of the 46th European Conference on Information Retrieval (__ECIR 2024__). [[paper](https://arxiv.org/abs/2307.00457)]
+
+
 2023
 ---
 __LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem__  
 Yingqiang Ge, Yujie Ren, Wenyue Hua, __Shuyuan Xu__, Juntao Tan, Yongfeng Zhang. arXiv:2312.03815. [[paper](https://arxiv.org/abs/2312.03815)]
-
-__Natural Language is All a Graph Needs__  
-Ruosong Ye, Caiqi Zhang, Runhui Wang, __Shuyuan Xu__ and Yongfeng Zhang. In the 18th Conference of the European Chapter of the Association for Computational Linguistics (__EACL 2024__). [[paper](https://arxiv.org/abs/2308.07134)]
 
 __Causal Collaborative Filtering__  
 __Shuyuan Xu__, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen, Yongfeng Zhang. In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (__ICTIR 2023__).[[paper](https://dl.acm.org/doi/abs/10.1145/3578337.3605122)] 
@@ -27,12 +37,6 @@ Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, __Shuyuan Xu__ and Yongfeng Z
 
 __OpenP5: Benchmarking Foundation Models for Recommendation__  
 __Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. arxiv:2306.11134. [[paper](https://arxiv.org/abs/2306.11134)]
-
-__UP5: Unbiased Foundation Model for Fairness-aware Recommendation__  
-Wenyue Hua, Yingqiang Ge, __Shuyuan Xu__, Jianchao Ji, Yongfeng Zhang. In the 18th Conference of the European Chapter of the Association for Computational Linguistics (__EACL 2024__). [[paper](https://arxiv.org/abs/2305.12090)]
-
-__GenRec: Large Language Model for Generative Recommendation__  
-Jianchao Ji, Zelong Li, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. In Proceedings of the 46th European Conference on Information Retrieval (__ECIR 2024__). [[paper](https://arxiv.org/abs/2307.00457)]
 
 __Causal Inference for Recommendation: Foundations, Methods and Applications__  
 __Shuyuan Xu__, Jianchao Ji, Yunqi Li, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. arXiv:2301.04016. [[paper](https://arxiv.org/abs/2301.04016)]
