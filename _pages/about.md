@@ -40,9 +40,10 @@ Academic Services
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - Conference PC Members and Reviewers:
+  - 2024: SIGIR, KDD
   - 2023: WebConf, SIGIR, KDD, RecSys
   - 2022: AAAI, WebConf, SIGIR
   - 2021: KDD
   - 2020: ICTIR, RecSys, CIKM
  
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ThQd1zQgIFYYU0hPzPsBlx1cQPY0_2pWkHGTm5MNakA&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_PNByELI02fV0rWaBSo3DPZip22-sxZAghztRQTzrLY"></script>
