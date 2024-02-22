@@ -45,5 +45,6 @@ Academic Services
   - 2022: AAAI, WebConf, SIGIR
   - 2021: KDD
   - 2020: ICTIR, RecSys, CIKM
- 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_PNByELI02fV0rWaBSo3DPZip22-sxZAghztRQTzrLY"></script>
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_PNByELI02fV0rWaBSo3DPZip22-sxZAghztRQTzrLY&cl=ffffff&w=a"></script>
