@@ -47,4 +47,4 @@ Academic Services
   - 2020: ICTIR, RecSys, CIKM
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=_PNByELI02fV0rWaBSo3DPZip22-sxZAghztRQTzrLY'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=_PNByELI02fV0rWaBSo3DPZip22-sxZAghztRQTzrLY'></script>
