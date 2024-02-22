@@ -17,6 +17,8 @@ Wenyue Hua, Yingqiang Ge, __Shuyuan Xu__, Jianchao Ji, Yongfeng Zhang. In the 18
 __GenRec: Large Language Model for Generative Recommendation__  
 Jianchao Ji, Zelong Li, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. In Proceedings of the 46th European Conference on Information Retrieval (__ECIR 2024__). [[paper](https://arxiv.org/abs/2307.00457)]
 
+__A Survey on Trustworthy Recommender Systems__  
+Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, __Shuyuan Xu__, Yunqi Li, Yikun Xian and Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper](https://arxiv.org/abs/2207.12515)] 
 
 2023
 ---
@@ -63,9 +65,6 @@ Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, __Shuyuan Xu__, Yunqi Li and Y
 
 __Causal Structure Learning with Recommendation System__  
 __Shuyuan Xu__, Da Xu, Evren Korpeoglu, Sushant Kumar, Stephen Guo, Kannan Achan, Yongfeng Zhang. arXiv:2210.10256. [[paper](https://arxiv.org/abs/2210.10256)] 
-
-__A Survey on Trustworthy Recommender Systems__  
-Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, __Shuyuan Xu__, Yunqi Li, Yikun Xian and Yongfeng Zhang. arXiv:2207.12515. [[paper](https://arxiv.org/abs/2207.12515)] 
 
 2021
 ---
