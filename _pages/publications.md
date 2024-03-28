@@ -26,6 +26,9 @@ __Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. In Proceedings of the 47th Internati
 __Towards LLM-RecSys Alignment based on Textual ID Learning__  
 Juntao Tan, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Zelong Li and Yongfeng Zhang. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (__SIGIR 2024__). [[paper](https://arxiv.org/abs/2306.11134)]
 
+__AIOS: LLM Agent Operating System__  
+Kai Mei, Zelong Li, __Shuyuan Xu__, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. [[paper](https://arxiv.org/abs/2403.16971)]
+
 2023
 ---
 __LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem__  
