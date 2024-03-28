@@ -20,6 +20,12 @@ Jianchao Ji, Zelong Li, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yo
 __A Survey on Trustworthy Recommender Systems__  
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, __Shuyuan Xu__, Yunqi Li, Yikun Xian and Yongfeng Zhang. In ACM Transactions on Recommender Systems (__TORS__). [[paper](https://arxiv.org/abs/2207.12515)] 
 
+__OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems__  
+__Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (__SIGIR 2024__). [[paper](https://arxiv.org/abs/2306.11134)]
+
+__Towards LLM-RecSys Alignment based on Textual ID Learning__  
+Juntao Tan, __Shuyuan Xu__, Wenyue Hua, Yingqiang Ge, Zelong Li and Yongfeng Zhang. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (__SIGIR 2024__). [[paper](https://arxiv.org/abs/2306.11134)]
+
 2023
 ---
 __LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem__  
@@ -36,9 +42,6 @@ Wenyue Hua, __Shuyuan Xu__, Yingqiang Ge, Yongfeng Zhang. In Proceedings of 1st 
 
 __OpenAGI: When LLM Meets Domain Experts__  
 Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, __Shuyuan Xu__ and Yongfeng Zhang. Advances in Neural Information Processing Systems (__NeurIPS 2023__). [[paper](https://arxiv.org/abs/2304.04370)]
-
-__OpenP5: Benchmarking Foundation Models for Recommendation__  
-__Shuyuan Xu__, Wenyue Hua, Yongfeng Zhang. arxiv:2306.11134. [[paper](https://arxiv.org/abs/2306.11134)]
 
 __Causal Inference for Recommendation: Foundations, Methods and Applications__  
 __Shuyuan Xu__, Jianchao Ji, Yunqi Li, Yingqiang Ge, Juntao Tan, Yongfeng Zhang. arXiv:2301.04016. [[paper](https://arxiv.org/abs/2301.04016)]
