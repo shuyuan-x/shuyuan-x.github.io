@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ======
-I’m **Shuyuan Xu**, a PhD candidate in [the Department of Computer Science at Rutgers University](https://www.cs.rutgers.edu/), under the supervision of [Prof. Yongfeng Zhang](http://www.yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from Ocean University of China in 2017.
+I’m **Shuyuan Xu**, currently a Research Scientist at ByteDance. Before that I received PhD degree in Computer Science from Rutgers University in 2024, under the supervision of [Prof. Yongfeng Zhang](http://www.yongfeng.me/), M.S. degree from Rutgers University in 2019 and B.S. degree from Ocean University of China in 2017.
 
 My research interests lie in the intersection of Machine Learning and Information Retrieval. My recent research focuses on Recommender Systems, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation, Causal Recommendation, and Large Language Models for Recommendation. 
 
