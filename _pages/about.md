@@ -18,7 +18,8 @@ My research interests lie in the intersection of Machine Learning and Informatio
 
 Education and Experience
 ======
-- PhD in Computer Science, Rutgers University, USA, 2019 - Now
+- Research Scientist, ByteDance, 2024 - 
+- PhD in Computer Science, Rutgers University, USA, 2019 - 2024
 - Research Intern, Walmart Labs, USA, May 2022 - Sep 2022
 - Research Intern, Walmart Labs, USA, Jun 2021 - Oct 2021
 - M.S. in Computer Science, Rutgers University, USA, 2017 - 2019
